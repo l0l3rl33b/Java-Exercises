@@ -1,4 +1,4 @@
-package Projects;
+
 /* Clase basica de aprendizaje de ingreso de datos con el paquete Scanner y uso de SET y GET */
 import java.util.Scanner;
 
