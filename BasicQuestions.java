@@ -12,7 +12,7 @@ public class BasicQuestions {
         this.name = name;
     }
     public String getName(){
-        return this.name;
+        return this.name;   
     }
 
     public void pedirMostrarNombre(String nombre){
